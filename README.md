@@ -30,14 +30,14 @@ Published research analyzing UNICEF, World Bank, and Nigerian government dataset
 - 📚 Second book (in progress)
 - 🤖 ML projects exploring bias in training data
 - 📝 Writing about AI ethics and accessibility
-- 🎓 Contributing to [ADA Global Academy](link) - teaching Data Science to young professionals across Africa
+- 🎓 Contributing to [ADA Global Academy](adaglobalacademy.com) - teaching Data Science to young professionals across Africa
 
 ---
 
 ## 📈 Highlights
 
 - 🏆 **State-level finalist** in Brazilian Olympiads (Math/Science) - Top 1-5% in São Paulo
-- 📖 **Published author** at age 13 - [Graphic Design textbook](link)
+- 📖 **Published author** at age 13 - [Graphic Design textbook](https://www.amazon.com/Fundamentals-Graphic-Design-Modern-Approach/dp/B0D9P7XGMF)
 - 🔬 **Published researcher** - AI education barriers (Zenodo, DOI: 10.5281/zenodo.19794764)
 - 🌐 **Multilingual** - Fluent in English, Portuguese, German, [Yoruba/Igbo/Hausa]
 - 💼 **Industry experience** - Curriculum development for Data Science education in Africa
@@ -55,7 +55,7 @@ I'm particularly interested in how AI systems can address—rather than amplify�
 
 ## 🌟 Featured Projects
 
-### [AI Education Barriers Analysis](link)
+### [AI Education Barriers Analysis](https://zenodo.org/records/19794764)
 Comprehensive analysis of technology access gaps in Nigerian secondary schools using real-world datasets. Includes Python scripts, R analysis, visualizations, and policy recommendations.
 
 **Tech:** Python (pandas, matplotlib) • R (ggplot2, dplyr) • Data cleaning • Statistical modeling
@@ -78,15 +78,13 @@ Brief description
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=studyelf100-hub&show_icons=true&theme=radical)
 
 ---
 
 ## 📝 Recent Writing
 
-- [Blog post title 1](link) - Brief description
-- [Blog post title 2](link) - Brief description
-- Check out my blogs: [Blog 1](link) • [Blog 2](link)
+- Check out my blogs: [Blog 1](https://eawe.substack.com/) • [Blog 2](https://theprettythesis.substack.com/)
 
 ---
 
@@ -98,7 +96,7 @@ I'm always interested in collaborating on projects related to:
 - Data analysis for social impact
 - Open-source tools for underserved communities
 
-**Reach me:** [Your email] • [LinkedIn if you have it] • [Twitter if you have it]
+**Reach me:** estheradeolaawe@gmail.com • [[LinkedIn if you have it]](https://br.linkedin.com/in/esther-adeola-awe-477858318)
 
 ---
 
@@ -117,4 +115,4 @@ I'm always interested in collaborating on projects related to:
 ---
 
 <!-- Optional: Add a visitor counter -->
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/studyelf100-hub/count.svg)
